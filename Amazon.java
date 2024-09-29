@@ -36,6 +36,7 @@ public class Amazon {
 		driver.findElement(By.xpath("(//i[@class=\"a-icon a-icon-checkbox\"])[12]")).click();
 		driver.close();
 ///kljdkhsfkjhfkjsdhkfj
+//jakdjkadshjahdjkashdkjhAKJDHAKJDHGAKSDKADKAGHDKAH
 
 	}
 
