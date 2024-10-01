@@ -24,7 +24,7 @@ public class KeyboardActions {
 		action.keyDown(fname, Keys.CONTROL).sendKeys("a").sendKeys("c").build().perform();
 		WebElement lname=driver.findElement(By.xpath("//input[@id='lname']"));
 		action.keyDown(lname, Keys.CONTROL).sendKeys("a").sendKeys("v").build().perform();
-
+///all about gihshf hcgebflwh eli
 }
 }
 
